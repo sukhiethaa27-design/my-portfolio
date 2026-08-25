@@ -13,4 +13,4 @@ export const projectsData = [
     liveUrl: '#',
     githubUrl: '#'
   },
-];
+]; 
