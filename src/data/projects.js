@@ -1,5 +1,5 @@
 
-export const categories = ['all', 'web', 'fullstack', 'auth', 'iot'];
+export const categories = ['all', 'web', 'arduino'];
 
 export const projectsData = [
   {
