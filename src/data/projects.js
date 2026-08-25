@@ -1,9 +1,6 @@
 export const categories = ['all', 'web', 'fullstack', 'auth'];
 
 export const projectsData = [
-
-
-
   {
     id: 1,
     title: 'Portfolio Website',
