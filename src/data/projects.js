@@ -12,5 +12,5 @@ export const projectsData = [
     featured: true,
     liveUrl: '#',
     githubUrl: '#'
-  }
+  },
 ];
